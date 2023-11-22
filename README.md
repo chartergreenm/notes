@@ -30,3 +30,6 @@ Remember to take breaks throughout the day to clear your mind and refocus. Addit
 - "Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the universe trying to produce bigger and better idiots. So far, the universe is winning." - Rich Cook
 
 This quote humorously highlights the importance of considering the end-users when designing and developing software. No matter how robust and error-free a program may be, there will always be users who manage to find ways to misuse or break it. Therefore, programmers must strive to create user-friendly and intuitive interfaces, as well as thoroughly test their code to minimize the potential for user-induced errors.
+
+# 2023-11-22
+- "Keep it simple, stupid!"
