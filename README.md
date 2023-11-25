@@ -50,3 +50,6 @@ This quote highlights the ongoing challenge for programmers to create user-frien
 6. Avoid global variables and use local variables, functions , and classes instead. Limiting the scope of variables reduces the likelihood of accidental modifications and makes yourcode easier tounderstand andmaintain.     
 7. Always write tests and code with test coverage in mind. Testing ensures your implementation works as intended and helps identify potential issues before they become problems. Test coverage helps you identify areas of your  code where you may need to improve your understanding and implementation.      
 8. Continuously learn and adapt to new technologies, programming languages, frameworks, tools, bestpractices,and industry trends. Staying informed and up- to-date with the latest developments in your field will help you write better code and contribute more effectively to your team and project.
+
+# 2023-11-25
+- "Keep it simple, stupid!"
