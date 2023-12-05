@@ -90,3 +90,8 @@ This quote reminds us that optimizing code before it's necessary can lead to unn
 
 # 2023-12-04
 - Today's programming wisdom is to always keep learning and adapting. Technology is constantly evolving, so it's important to stay up-to-date with the latest trends and best practices. This includes learning new programming languages, tools, and frameworks, as well as continuously improving your problem-solving skills. Additionally, always strive to write clean, maintainable code that follows established coding standards and conventions. Finally, remember that programming is a collaborative effort, so be open to feedback and willing to work with others to achieve common goals.
+
+# 2023-12-05
+- Today's programming wisdom is: "Premature optimization is the root of all evil." - Donald Knuth. 
+
+This quote reminds us that optimizing code before it's necessary can lead to overly complex and hard-to-maintain code. It's better to write clear, simple code first and optimize only when needed.
