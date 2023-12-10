@@ -115,3 +115,10 @@ This quote reminds us that while optimizing code for performance is important, i
 To be successful in programming, it is essential to have a deep understanding of the fundamentals, such as data structures, algorithms, computer architecture, operating systems, etc. These fundamentals will provide a solid foundation for your career, allowing you to adapt to the ever-changing landscape of technology. 
  - 学习新技能，不断更新你的技能库和知识库。
 - 对最新技术、工具和编程语言保持敏感。 保持开放的心态，接受新的想法和方法。- 有耐心，不怕犯错误。从错误中学习，不断提高自己的技能。
+
+# 2023-12-10
+- Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your work. First, prioritize your tasks based on their importance and deadlines. By giving priority to the tasks that need to get done first, you can ensure that you are making progress on the right things.
+
+Next, planning ahead is crucial for success. Break down your projects into smaller, manageable tasks and set deadlines for each one. Creating a plan will give you a clear vision of what needs to happen and when, allowing you stay on track and avoid last-minute panic. You can use project management tools, such as Trello or Asana, to help keep track of your progress. 
+ - --------
+ Finally, stay organize and maintain a clean and tidy codebase. Following coding conventions and using version control systems, like Git, will ensure your code is easy to read and understand. When your codes organized, it'll be easier to find and fix any issues that may arise. Additionally, using code editing tools like Prettier or ESLint can help ensure code consistency and quality.
