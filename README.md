@@ -122,3 +122,8 @@ To be successful in programming, it is essential to have a deep understanding of
 Next, planning ahead is crucial for success. Break down your projects into smaller, manageable tasks and set deadlines for each one. Creating a plan will give you a clear vision of what needs to happen and when, allowing you stay on track and avoid last-minute panic. You can use project management tools, such as Trello or Asana, to help keep track of your progress. 
  - --------
  Finally, stay organize and maintain a clean and tidy codebase. Following coding conventions and using version control systems, like Git, will ensure your code is easy to read and understand. When your codes organized, it'll be easier to find and fix any issues that may arise. Additionally, using code editing tools like Prettier or ESLint can help ensure code consistency and quality.
+
+# 2023-12-11
+- Today's programming wisdom is to be a lifelong learner. As technology continues to evolve at an unprecedented rate, it is essential to stay up-to-date with the latest developments and techniques. This means constantly reading blogs, articles, and research papers, attending conferences, workshops, online courses, etc. to gain a deeper understanding of the field.
+
+In addition to keeping up with technological advancements, being a good programmer also means being able to collaborate effectively with others. That means communicating clearly, listening carefully, giving constructive feedback, as well as knowing when to step back and let others take the lead. A good team player is always open to new ideas and willing to learn from others, which can lead to more innovative and efficient solutions.
