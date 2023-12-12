@@ -127,3 +127,6 @@ Next, planning ahead is crucial for success. Break down your projects into small
 - Today's programming wisdom is to be a lifelong learner. As technology continues to evolve at an unprecedented rate, it is essential to stay up-to-date with the latest developments and techniques. This means constantly reading blogs, articles, and research papers, attending conferences, workshops, online courses, etc. to gain a deeper understanding of the field.
 
 In addition to keeping up with technological advancements, being a good programmer also means being able to collaborate effectively with others. That means communicating clearly, listening carefully, giving constructive feedback, as well as knowing when to step back and let others take the lead. A good team player is always open to new ideas and willing to learn from others, which can lead to more innovative and efficient solutions.
+
+# 2023-12-12
+- "Keep it simple, stupid!"
