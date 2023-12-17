@@ -144,3 +144,6 @@ This quote reminds us that optimizing code too early in the development process 
 
 # 2023-12-16
 - "Keep it simple, stupid!"
+
+# 2023-12-17
+- Today's programming wisdom is to prioritize writing readable and maintainable code over clever or complex solutions. Code that is easy to understand and modify will save time and effort in the long run, especially when working on large projects with multiple developers. This can be achieved by using clear and concise variable names, commenting your code thoroughly, and adhering to established coding conventions and best practices. Remember that code is read far more often than it is written, so make it easy for others (and your future self) to read and work with your code.
