@@ -194,3 +194,10 @@ Lastly, staying organized is essential for maintaining a high level of productiv
 
 # 2023-12-26
 - "Keep it simple, stupid!"
+
+# 2023-12-27
+- Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your coding endeavors.
+
+1. Prioritize tasks: When you are working on a project, it is essential to determine which tasks are most important and which can be completed later. By prioritizing your tasks in this way, you can ensure that you focus on the most critical aspects of the project first. You can use techniques such as the MoSCoW method (Must have, Should have , Could have and Won't have) to categorize your task. 
+2. Plan ahead: Planning is crucial for any project. It helps you organize your time, resources, skills, etc. Create a detailed plan that includes the goals, milestones, tasks and deadlines. Make sure to update the plan as you progress through the projects. Planning helps to avoid last-minute surprises and keeps you on track.  
+3. Stay organized: Keeping your code, project files, notes, research, documentation and other resources organized is very important. Use version control systems like Git to manage your codes and track changes. Organize and label your files and folders to make it easy to find what you need. Document your work thoroughly to save time and effort in the future.
