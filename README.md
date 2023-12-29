@@ -207,3 +207,6 @@ Lastly, staying organized is essential for maintaining a high level of productiv
 
 First, prioritize your tasks. When you are working on a project, there will always be multiple things that need to get done. By prioritizing your task list, you can make sure that you focus on the most important tasks first. You can use techniques like the Eisenhower Matrix to help determine the priority of your duties. The Eisenheimer Matrix groups tasks into four categories: urgent and important, urgent but not important. important but non-urgent, non urgent non important (Eisenhower, 1964). 
  .This will ensure that your time is spent on tasks that will have the greatest impact on your project. Priority tasks should be completed first, followed by the less important ones. If you spend all your energy on unimportant tasks and neglect the important work, your progress will be hindered. So, always prioritize. Your time and energy are valuable resources. Don't waste them.
+
+# 2023-12-29
+- "Keep it simple, stupid!"
