@@ -219,3 +219,8 @@ First, prioritize your tasks. When you are working on a project, there will alwa
 
 # 2024-01-01
 - "Keep it simple, stupid!"
+
+# 2024-01-02
+- Today's programming wisdom is to be a lifelong learner, always staying up-to-date with the latest technologies and programming languages. This involves reading blogs, articles, and books, attending workshops and conferences, as well as participating in online forums and communities. By constantly updating your knowledge and skills, you will become a valuable asset to any team or project.
+
+Another piece of wisdom in programming is the importance of writing clean, modular,and well-documented code.This not only makes your code easier to understand and maintain, but also reduces the likelihood of errors and bugs. To achieve this, follow the principles of SOLID programming, which stands for Single Responsibility Principle, Open/Closed Prority, Liskov Substitution Princinple, Interface Segregation Priniple, Dependency Inversion Principles. These principles will help you design better and more maintainable code, leading to a more efficient and reliable product.
