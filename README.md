@@ -281,3 +281,10 @@ In essence, keep it simple, make it readable, and use the right tools judiciousl
 - "Today's programming wisdom: 'Premature optimization is the root of all evil' - Donald Knuth. Focus on writing clean, readable, and maintainable code first; optimize only when necessary and after profiling. Remember that simplicity and clarity enhance robustness and evolvability, which are often more valuable than a marginal performance boost." 
 
 In practice, this means you should not try to optimize your code before understanding where the real bottlenecks lie. Write code that works correctly and is easy to understand, then measure its performance. Only after identifying the actual slow parts through profiling should you consider optimizing. This approach saves time, reduces bugs, and enhances the longevity of your software projects.
+
+# 2024-01-13
+- Today's programming wisdom is to be a lifelong learner. As technology continues to evolve at an unprecedented rate, it is crucial for programmers to constantly update their knowledge and skills. This means staying up-to-date with the latest trends and technologies, such as artificial intelligence, machine learning, and the internet of things.
+
+To be successful in the programming field, you should also have a strong foundation in core programming concepts, like data structures, algorithms, software engineering, version control, testing, debugging, etc. Additionally, learning to code in multiple programming languages is a valuable asset, as it allows you to work with various technologies and teams. 
+ - 学习编程语言和框架。了解最新的编程趋势和技术，如人工智能、机器学习和物联网。
+- 有扎实的基础知识，包括数据结构、算法、软件工程、版本控制、测试和调试等。 学会在多个编程环境中工作。-保持好奇心，探索新技术和工具。不断学习和实践，提高编程技能。
