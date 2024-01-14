@@ -288,3 +288,6 @@ In practice, this means you should not try to optimize your code before understa
 To be successful in the programming field, you should also have a strong foundation in core programming concepts, like data structures, algorithms, software engineering, version control, testing, debugging, etc. Additionally, learning to code in multiple programming languages is a valuable asset, as it allows you to work with various technologies and teams. 
  - 学习编程语言和框架。了解最新的编程趋势和技术，如人工智能、机器学习和物联网。
 - 有扎实的基础知识，包括数据结构、算法、软件工程、版本控制、测试和调试等。 学会在多个编程环境中工作。-保持好奇心，探索新技术和工具。不断学习和实践，提高编程技能。
+
+# 2024-01-14
+- Today's programming wisdom is to prioritize tasks, plan your time wisely, and stay organized. This will help you to be more efficient and productive in your work. First, make a list of all the tasks you need to complete, then prioritize them based on their importance and urgency. Next, allocate time for each task, taking into account the complexity and your own availability. Finally, use task management tools and versions control systems to keep your code organized and easy to maintain. Remember to take breaks and keep learning new skills to stay ahead in the ever-changing world of programming.
