@@ -333,3 +333,6 @@ In essence, keep it simple, avoid unnecessary complexity, embrace modularity, an
 Second, planning ahead is crucial. Before starting a project, think about the steps you need to take and the resources you will need. Creating a plan will make it easier to stay on track and avoid getting sidetracked. You can use tools like Trello or Asana to help with project management and organization. 
  --
  Third, stay organised. Keep your code, files,and documents tidy and well-labeled. Using version control systems like Git can help ensure your codes are safe and easy to track changes. Additionally, using dedicated project folders and organizing your files by functionality or date can make your workflow smoother.
+
+# 2024-01-25
+- "Keep it simple, stupid!"
