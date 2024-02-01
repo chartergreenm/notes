@@ -358,3 +358,9 @@ In software development, this translates to the idea that writing clean, straigh
 
 # 2024-01-31
 - "Keep it simple, stupid!"
+
+# 2024-02-01
+- Today's programming wisdom is to be a lifelong learner. As technology continues to evolve at an unprecedented pace, it is crucial for programmers to constantly update their knowledge and skills. This means staying up-to-date with the latest trends and technologies, such as artificial intelligence, machine learning, and the internet of things.
+
+To be successful in the programming field, you must also develop excellent communication and teamwork skills, as most projects involve collaborating with other professionals. Effective communication helps to ensure that everyone on the team is onthe same page and that ideas and feedback can be shared easily. Additionally, being able to break down complex problems into manageable tasks and then communicate those tasks effectively is a valuable skill. 
+ - 来自NLP
