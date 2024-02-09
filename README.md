@@ -396,3 +396,6 @@ Also, "Premature optimization is the root of all evil." - Donald Knuth. This quo
 
 Second, planning ahead is crucial. Before starting a new project or undertaking a task, take the time to plan out your approach. Think about the different aspects of the problem and how you will approach them. Creating a plan will also help to keep you organized and on track. You can use tools like Trello or Asana to help with task management and organization. 
  -- 211个词
+
+# 2024-02-09
+- "Keep it simple, stupid!"
