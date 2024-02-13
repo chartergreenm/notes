@@ -414,3 +414,6 @@ In essence, while crafting software, keep in mind the future developers (includi
 Second, planning ahead is crucial. Before starting a new project or undertaking a large task, take the time to plan out your approach. Break down the task into smaller, manageable steps, then allocate time for each step. Planning ahead will ensure you have a clear roadmap and can avoid getting lost in the weeds. 
  --
  Additionally, stay organised in all aspects of your workflow. Use version control systems like Git to track your code and collaborate with others. Keep your workspace clean and clutter-free, as this can help reduce the amount of time spent searching for files or fixing merge conflicts. Organising your project and code will also make it easier to find and fix any errors that may arise.
+
+# 2024-02-13
+- "Keep it simple, stupid!"
