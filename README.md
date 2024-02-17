@@ -426,3 +426,11 @@ Second, planning ahead is crucial. Before starting a new project or undertaking 
 
 # 2024-02-16
 - "Keep it simple, stupid!"
+
+# 2024-02-17
+- Today's programming wisdom is to be a lifelong learner. As technology continues to evolve at an unprecedented rate, it is crucial for programmers to constantly update their knowledge and skills. This means staying up-to-date with the latest industry trends, tools, and programming languages.
+
+To be successful as a programmer, you should also have a deep understanding of computer science principles, such as data structures, algorithms, software engineering, systems architecture, etc. These principles will help you design and develop efficient, scalable, maintainable, secure, testable software systems. 
+ - 了解最新的技术趋势和工具，并学会使用它们。
+- 对计算机科学原理有深入的理解，如数据结构、算法、软件工程、系统架构等。 。。这些原则将帮助你设计和开发高效的、可扩展的、 可维护的。可测试的软件系统。-培养良好的编程习惯，例如编写简洁、易读、高效的代码。这有助于提高你的工作效率，同时也有助于与他人合作。--------
+总之，作为一名程序员，你应该终身学习，不断更新自己的知识和技能，培养自己的计算机科学的理解，养成良好的编程实践，并与他人合作，以适应不断变化的技术环境。
