@@ -529,3 +529,17 @@ In practice, this means choosing straightforward algorithms, using descriptive v
 First, prioritize your tasks. When you're working on a project, it' s important to determine which tasks are most critical to the success of the project. By focusing on these tasks first, you can ensure that your code is of high quality and meets the requirements of your project before moving on to less important tasks or bugs. You can use techniques like the MoSCoW method (Must have, Should have , Could have and Won't have) to categorize your task and prioritize them. 
  其次，明智地规划你的时间。在编程时，合理安排时间至关重要。你可以为每个任务分配特定的时间段，以确保你在一天中为每一个任务都分配了足够的时间。避免在一天中的同一时间处理相同的任务，因为这可能导致效率低下。同时，确保在完成任务时留出一些缓冲时间，以便在遇到问题时能够及时解决。
  最后，保持组织。一个整洁、有组织的代码库可以帮助你更快地找到问题并解决问题。使用版本控制系统（如Git）来跟踪代码更改，并确保你的代码结构清晰、命名规范。这将使你的团队更容易协作，同时也有助于你在需要时回顾和修改代码。 总之，通过优先处理任务、合理安排时间和保持代码组织，你可以提高编程效率并更好地完成项目。
+
+# 2024-03-10
+- Today's programming wisdom is to always prioritize code readability and maintainability. This means writing concise, well-structured, and easy-to-understand code that can be easily modified and expanded as needed. To achieve this, follow these best practices:
+
+1. Use clear variable and function names that describe their purpose and use appropriate naming conventions.
+2. Organize code into logical sections and modules, using comments to explain the purpose of each section. 
+3. Follow coding conventions and standards for the language and framework you're using, as well as any industry best practice guidelines.  
+4. Minimize the use of global variables and instead pass data as arguments where possible.   
+5. Write modular code with well defined interfaces and dependencies, allowing for easy reuse and extension.    
+6. Avoid hardcoding values and constants, instead using parameters and configuration files where appropriate.     
+7. Utilize version control systems like Git to track code changes and collaborate with others on projects.      
+8. Continuously learn and stay up-do-date with new programming languages, frameworks, tools, libraries, best-practices, etc. to improve your skills and productivity.       
+9. Test and debug your code regularly, ensuring it works as intended and doesn't have any hidden errors.        
+And finally, always keep in mind the end user and their needs when designing and implementing your software. By prioritizing code quality and maintaining a clear, modular, testable, reusable, easy to understand codebase, you will create software that is not only efficient and effective but also enjoyable to work with and contribute to.
